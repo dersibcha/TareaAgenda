@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/dfsibaja/Desktop/UNA/PROGRA4/19/WebAppAgendaCRUD/src/java/cr/ac/una/prograiv/agenda/bl/BaseBL.java</file>
+            <file>file:/C:/Users/dfsibaja/Desktop/UNA/PROGRA4/19/WebAppAgendaCRUD/src/java/cr/ac/una/prograiv/agenda/controller/PersonasServlet.java</file>
+            <file>file:/C:/Users/dfsibaja/Desktop/UNA/PROGRA4/19/WebAppAgendaCRUD/src/java/hibernate.cfg.xml</file>
+            <file>file:/C:/Users/dfsibaja/Desktop/UNA/PROGRA4/19/WebAppAgendaCRUD/src/java/cr/ac/una/prograiv/agenda/controller/TelefonosServlet.java</file>
+            <file>file:/C:/Users/dfsibaja/Desktop/UNA/PROGRA4/19/WebAppAgendaCRUD/web/PersonasJSP.jsp</file>
+            <file>file:/C:/Users/dfsibaja/Desktop/UNA/PROGRA4/19/WebAppAgendaCRUD/web/TelefonosJSP.jsp</file>
+            <file>file:/C:/Users/dfsibaja/Desktop/UNA/PROGRA4/19/WebAppAgendaCRUD/web/js/PersonasJS.js</file>
+            <file>file:/C:/Users/dfsibaja/Desktop/UNA/PROGRA4/19/WebAppAgendaCRUD/src/java/cr/ac/una/prograiv/agenda/domain/Telefonos.java</file>
+        </group>
+    </open-files>
+</project-private>
